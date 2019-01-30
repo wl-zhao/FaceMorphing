@@ -19,7 +19,7 @@
 
 - 在`bin`文件夹下，双击`FaceMorphing.exe`，程序初始界面如图所示：
 
-  ![initial](.\picture\screenshot\initial.png)
+  ![initial](./picture/screenshot/initial.png)
 
   ​
 
@@ -40,7 +40,7 @@
 
   ​
 
-  ![morphing](.\picture\screenshot\morphing.png)
+  ![morphing](./picture/screenshot/morphing.png)
 
   ​
 
@@ -48,7 +48,7 @@
 
   ​
 
-  ![morphed](.\picture\screenshot\morphed.png)
+  ![morphed](./picture/screenshot/morphed.png)
 
   ​
 
@@ -56,7 +56,7 @@
 
   ​
 
-  ![BSpline](.\picture\screenshot\BSpline.png)
+  ![BSpline](./picture/screenshot/BSpline.png)
 
 
 
